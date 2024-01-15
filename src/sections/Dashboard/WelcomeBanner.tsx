@@ -100,7 +100,7 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>O┴ ƎWOƆ˥ƎM $ƧOΓ  ONIS∀Ɔ 🚀</h1>
+        <h1> ONIS∀Ɔ ΓOƧ$ O┴ ƎWOƆ˥ƎM 🚀</h1>
         <p>
           ɐuɐloS uo ouᴉsɐɔ pǝzᴉlɐɹʇuǝɔǝp puɐ ǝldɯᴉs 'ɹᴉɐɟ ∀.
         </p>
