@@ -106,14 +106,14 @@ export function WelcomeBanner() {
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
-          🚀 Add Liqudity
+        <button onClick={() => window.open('https://birdeye.so/token/G6uc6NRVXgmyzugJgKsVJyuqQGHjUJdQjUp7mdMgHaWW?chain=solana', '_blank')}>
+          🚀 ΓOƧ$ ⅄∩q
         </button>
-        <button onClick={() => window.open('https://github.com/gamba-labs/gamba', '_blank')}>
-          👨‍💻 Build your own
+        <button onClick={() => window.open('https://twitter.com/SolanaFlippedCT', '_blank')}>
+          👨‍💻 ɹƎ┴┴IM┴
         </button>
-        <button onClick={() => window.open('https://discord.gg/HSTtFFwR', '_blank')}>
-          💬 Discord
+        <button onClick={() => window.open('https://t.me/FLIPPEDSOLANA', '_blank')}>
+          💬 W∀ɹפƎ˥Ǝ┴
         </button>
       </Buttons>
     </Welcome>
