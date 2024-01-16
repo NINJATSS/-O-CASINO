@@ -25,7 +25,12 @@ body, input, button, textarea, pre {
   font-size: 16px;
 }
 
-h1, h2 {
+h1, h2 { color: #fff;
+  text-shadow:
+2px 2px 0 #000,
+    -2px 2px 0 #000,
+    -2px -2px 0 #000,
+    2px -2px 0 #000;
   margin: 0;
 }
 
