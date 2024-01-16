@@ -36,7 +36,6 @@ const Buttons = styled.div`
   }
 `
 
-```js
 const Welcome = styled.div`
   border-radius: 10px;
   position: relative;
@@ -58,8 +57,6 @@ const Welcome = styled.div`
       padding: 40px;
     }
   }
-`
-```
 
   background: linear-gradient(-45deg, #ffb07c, #ff3e88, #2969ff, #ef3cff, #ff3c87);
   background-size: 300% 300%;
