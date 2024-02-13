@@ -70,10 +70,10 @@ export function WelcomeBanner() {
       </div>
       <Buttons>
         <button onClick={() => window.open('https://birdeye.so/token/B3D9bMJCrLfmvULWTMm86K49c7XfDQzHSk5Fh7EfoRZ4?chain=solana', '_blank')}>
-          🚀 ΓOƧ$ ⅄∩q
+          🚀 BUY $WAGMI
         </button>
         <button onClick={() => window.open('https://twitter.com/Wagmiondex', '_blank')}>
-          👨‍💻 ɹƎ┴┴IM┴
+          👨‍💻 TWITTER
         </button>
         <button onClick={() => window.open('https://t.me/Wagmisolportal', '_blank')}>
           💬 TG
