@@ -63,20 +63,20 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1> ONIS∀Ɔ ΓOƧ$ O┴ ƎWOƆ˥ƎM 🚀</h1>
+        <h1> $WAGMI CASINO 🚀</h1>
         <p>
-          ɐuɐloS uo ouᴉsɐɔ pǝzᴉlɐɹʇuǝɔǝp puɐ ǝldɯᴉs 'ɹᴉɐɟ ∀.
+          $WAGMI IS THE TICKER.
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://birdeye.so/token/G6uc6NRVXgmyzugJgKsVJyuqQGHjUJdQjUp7mdMgHaWW?chain=solana', '_blank')}>
+        <button onClick={() => window.open('https://birdeye.so/token/B3D9bMJCrLfmvULWTMm86K49c7XfDQzHSk5Fh7EfoRZ4?chain=solana', '_blank')}>
           🚀 ΓOƧ$ ⅄∩q
         </button>
-        <button onClick={() => window.open('https://twitter.com/SolanaFlippedCT', '_blank')}>
+        <button onClick={() => window.open('https://twitter.com/Wagmiondex', '_blank')}>
           👨‍💻 ɹƎ┴┴IM┴
         </button>
-        <button onClick={() => window.open('https://t.me/FLIPPEDSOLANA', '_blank')}>
-          💬 W∀ɹפƎ˥Ǝ┴
+        <button onClick={() => window.open('https://t.me/Wagmisolportal', '_blank')}>
+          💬 TG
         </button>
       </Buttons>
     </Welcome>
